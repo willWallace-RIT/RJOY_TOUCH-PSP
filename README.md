@@ -1,4 +1,4 @@
-base library for rjoy and touch telemetry to allow support for modded games with a virtual
+base library for native rjoy and touch telemetry to allow support for modded games with a virtual
 USB interface.
 
 in theory the limitation that caused this mod to never happen before is data transfer bottleneck
