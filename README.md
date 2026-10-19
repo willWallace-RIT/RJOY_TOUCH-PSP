@@ -7,4 +7,6 @@ BUT my thoughts are the USB attachment communication is ONLY the method of setti
 
 without thinking or testing, my thoughts is a hardware fpga or microcontroller joystick value smush to compress two floats into the address space of one.
 
+so the microcontroller is powered by and dictates required on-psp address space while handling communication through the joystick line.
+
 there is some calculation to be done on a prl in userland tho. this is where you would set the second joystick in the periphral address space.
