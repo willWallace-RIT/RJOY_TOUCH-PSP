@@ -10,3 +10,5 @@ without thinking or testing, my thoughts is a hardware fpga or microcontroller j
 so the microcontroller is powered by and dictates required on-psp address space through the USB bus while handling communication of two joys through a single joystick line.
 
 there is some calculation to be done on a prl in userland tho. this is where you would set the second joystick in the periphral address space.
+
+this also might require some attenuation on compression algorithm implemention vs. lowering of float precision.
