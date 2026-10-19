@@ -12,3 +12,5 @@ so the microcontroller is powered by and dictates required on-psp address space 
 there is some calculation to be done on a prl in userland tho. this is where you would set the second joystick in the periphral address space.
 
 this also might require some attenuation on compression algorithm implemention vs. lowering of float precision.
+
+this could also translate to native joystick supportfor psp on the vita to free up up shoulder button input slots.
